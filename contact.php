@@ -4,7 +4,7 @@
 	include('includes/header.php');
 
 	/*
-		NOTE:
+		NOTE::
 		In the form in contact.php, the name text field has the name "name"
 		If the user submits the form, the $_POST['name'] variable will be
 		automatically created, and will contain the text they typed into
