@@ -20,6 +20,8 @@
     <em>Sunday - Monday</em><br>
     Closed <br><br>
 
+    <?php include('includes/store-hours.php'); ?>
+
   </div><!-- column -->
 
 </div><!-- footer -->
